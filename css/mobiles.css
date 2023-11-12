@@ -1,0 +1,6 @@
+@media (max-width:420px) {
+    .footer_navigation {
+        column-gap: 30px;
+        text-align: center;
+    }
+}
